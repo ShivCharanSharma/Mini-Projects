@@ -11,7 +11,8 @@
    **./app**
 
 ### Creating Documentation using Doxygen 
-    To create documentation using Doxygen install it and then run command from project directory where DoxiConf file located:
+    To create documentation using Doxygen install it.
+    And then run command from project directory where DoxiConf file located:
     
    **doxygen DoxiConf**
 
