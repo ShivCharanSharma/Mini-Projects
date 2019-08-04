@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 2.4)
 
-project(hello_world)
+project(Hello)
 
 add_executable(app main.c)
