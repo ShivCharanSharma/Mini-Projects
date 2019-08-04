@@ -1,10 +1,10 @@
 ### Compiling code
   After Cloning this repostory, In order to Compile code follow following steps in project directory linux:
-1. **mkdir build**
-2. **cd build**
-3. **cmake ..**
-4. **cmake --build**
-5. **make**
+
+1. **cd Build**
+2. **cmake ..**
+3. **cmake --build**
+4. **make**
 
   I will create an executable file "app" you can run this with following command :
    
