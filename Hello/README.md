@@ -13,6 +13,6 @@
 ### Creating Documentation using Doxygen 
     To create documentation using Doxygen intall it and then run command :
     
-   **doxygen doxygen_config**
+   **doxygen DoxiConf**
 
     It will create documentation for you.
