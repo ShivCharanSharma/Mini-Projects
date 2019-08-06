@@ -1,5 +1,1 @@
-
-void put()
-{
-printf("HELLO WORLD!!!");
-}
+#include<stdio.h>

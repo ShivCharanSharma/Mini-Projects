@@ -1,5 +1,10 @@
 cmake_minimum_required(VERSION 2.4)
-include_directories(include)
 project(Hello)
 
-add_executable(app src/main.c include/helloworld.h)
+#Bring the headers, such as Student.h into the project
+include_directories(include)
+ 
+# file(GLOB...) allows for wildcard additions:
+file(GLOB SOURCES "src/*.c")
+ 
+add_executable(app ${SOURCES})
